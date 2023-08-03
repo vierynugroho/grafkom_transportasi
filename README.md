@@ -8,4 +8,4 @@
 | Dosen Pengampu | [Udkhiati Mawaddah,S.Kom.,M.kom. |
 
 ### SCREENSHOT PROGRAM
-![Aplikasi Gue](https://github.com/vierynugroho/UAS-praktikum_SistemOperasi/blob/main/grafkom_transportasi.png?raw=true)
+![Aplikasi Gue](https://github.com/vierynugroho/grafkom_transportasi/blob/main/grafkom_transportasi.png?raw=true)
