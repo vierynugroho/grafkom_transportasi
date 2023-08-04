@@ -2,8 +2,11 @@
 
 |  |  |
 |--|--|
-| NIM | *21104410049* |
-| Nama Lengkap | *Viery Nugroho* |
+|**Nama**| **NIM**|
+|Batara Mahardika A. |21104410063|
+|Rangga Krisna Putra |21104410068|
+|Viery Nugroho |21104410049|
+|Chakti Yanottama |21104410064|
 | Kelas | TI-4B |
 | Dosen Pengampu | Udkhiati Mawaddah,S.Kom.,M.kom. |
 
